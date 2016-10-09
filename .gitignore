@@ -1,0 +1,10 @@
+*.pyc
+node_modules
+*.swp
+npm-debug.log
+.bundle.js
+binarystory/private.py
+#*.sqlite
+#client/assets/story-images
+#client/assets/story-voiceovers-mp3
+#client/assets/story-voiceovers-ogg
